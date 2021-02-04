@@ -1,5 +1,4 @@
 unidecode
 requests
-kilt
 fairseq
 transformers
